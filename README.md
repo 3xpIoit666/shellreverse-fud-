@@ -4,4 +4,4 @@ use netcat como escuha
 establezca dormir partiendo desde 5 segundos es recomendando
 deja tu like si te gusta el proyect
 
-tuto https://youtu.be/xgGJ0g5zGEw
+tuto https://youtu.be/wkNbngLhLCQ
